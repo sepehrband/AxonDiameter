@@ -1,4 +1,4 @@
-## Axon diameter mapping with ultra-high gradient strength
+## Axon diameter mapping with ultra-high gradient strength (G\_max = 1.35 T/m)
 This link is provided in accordance with the following article:
 >**Towards Higher Sensitivity And Stability Of Axon Diameter Estimation With Diffusion-Weighted Magnetic Resonance Imaging**
 >*Farshid Sepehrband, Daniel C. Alexander, Nyoman D. Kurniawan, David C. Reutens, and Zhengyi Yang*
@@ -15,4 +15,6 @@ For information regarding the acquisition protocol please see the above article.
 
 ## electron microscopy (EM) data
 Coming soon!
+
+### More suuplementary material will be provided soon!
 
