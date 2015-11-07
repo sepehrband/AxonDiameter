@@ -1,4 +1,4 @@
-##ActiveAx with ultra-high gradient strength (G<sub>max</sub> = 1.35T/m)
+##ActiveAx with ultra-high gradient strength (G<sub>max</sub> = 1.35 T/m)
 This link is provided in accordance with the following article:
 >**Towards Higher Sensitivity And Stability Of Axon Diameter Estimation With Diffusion-Weighted Magnetic Resonance Imaging**
 >*Farshid Sepehrband, Daniel C. Alexander, Nyoman D. Kurniawan, David C. Reutens, and Zhengyi Yang*
