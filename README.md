@@ -8,8 +8,8 @@ This link is provided in accordance with the following article:
 
 ## Diffusion-weighted MRI data
 Two datasets were acquired in this study, which are made available here:
-- 3-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/3-shell.zip).
-- 5-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/5-shell.zip).
+- 3-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/3-shell.zip).
+- 5-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/5-shell.zip).
 
 For information regarding the acquisition protocol please see the above article. 
 
