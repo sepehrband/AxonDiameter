@@ -2,7 +2,7 @@
 This link is provided in accordance with the following article:
 >**Towards Higher Sensitivity And Stability Of Axon Diameter Estimation With Diffusion-Weighted Magnetic Resonance Imaging**  
 >Farshid Sepehrband, Daniel C. Alexander, Nyoman D. Kurniawan, David C. Reutens, and Zhengyi Yang  
->**NMR in Biomedicine 29(3):293-308** DOI: 10.1002/nbm.3462 - [link](http://onlinelibrary.wiley.com/doi/10.1002/nbm.3462/abstract)
+>**NMR in Biomedicine 29(3):293-308.** DOI: 10.1002/nbm.3462, [link](http://onlinelibrary.wiley.com/doi/10.1002/nbm.3462/abstract)
 
 ## Supplementary material
 
