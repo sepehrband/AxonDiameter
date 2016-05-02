@@ -1,8 +1,12 @@
 ##ActiveAx with ultra-high gradient strength (G<sub>max</sub> = 1.35 T/m)
-This link is provided in accordance with the following article:
+This link is provided in accordance with the following articles:
 >**Towards Higher Sensitivity And Stability Of Axon Diameter Estimation With Diffusion-Weighted Magnetic Resonance Imaging**  
 >Farshid Sepehrband, Daniel C. Alexander, Nyoman D. Kurniawan, David C. Reutens, and Zhengyi Yang  
 >**NMR in Biomedicine 29(3):293-308.** DOI: 10.1002/nbm.3462, [link](http://onlinelibrary.wiley.com/doi/10.1002/nbm.3462/abstract)
+
+>**Parametric Probability Distribution Functions for Axon Diameters of Corpus Callosum**  
+>Farshid Sepehrband, Daniel C. Alexander, Kristi A. Clark, Nyoman D. Kurniawan, Zhengyi Yang and David C. Reutens
+>**Front. Neuroanat.**, under revision
 
 ## Supplementary material
 
