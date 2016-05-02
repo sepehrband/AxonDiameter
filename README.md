@@ -38,8 +38,10 @@ for i = 1:length(bwComp.PixelIdxList)
 end
 figure(2);histogram(Dia)
 grid on
-xlabel('Axon diameter');ylabel('Frequency')
-title('Axon diameter distribution')
+title('Axon Diameter Distribution (ADD) of demo image')
+set(gca,'LineWidth',1,'FontSize',12,'FontWeight','Bold','FontName','Arial'); 
+xlabel('Axon diameter \fontsize{9}(\mum)','FontSize',12,'FontName','Arial'); 
+ylabel('Frequency','FontSize',12,'FontName','Arial'); 
 ```
 
 ![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/EM.png)   
