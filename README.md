@@ -44,4 +44,4 @@ title('Axon diameter distribution')
 
 ![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/EM.png)   
 
-![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/ADD.png)  
+![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/ADD2.png)  
