@@ -42,5 +42,5 @@ xlabel('Axon diameter');ylabel('Frequency')
 title('Axon diameter distribution')
 ```
 
-![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/EM.tif)  
-![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/ADD.tif)  
+![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/EM.png)  
+![alt tag](https://raw.github.com/sepehrband/AxonDiameter/master/ADD.png)  
