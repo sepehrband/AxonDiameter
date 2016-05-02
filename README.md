@@ -14,12 +14,12 @@ Two datasets were acquired in this study, which are made available here:
 For information regarding the acquisition protocol please see the above article. 
 
 ## Electron microscopy (EM) data
-- Raw electron microscopy images can be find [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/3-shell.zip).
-- Processed images (in MATLAB format) can be find [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/3-shell.zip).
+- Raw electron microscopy images can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/Raw.zip).
+- Processed images (in MATLAB format) can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/MATfiles.zip).
 
 ** Please note that some of the images were not processed for axon diameter analysis, because of their low quality. However the raw images are included here, as they may be useful for other purposes. 
  
-### Demo on viewing EM data in MATLAB
+### MATLAB demo (EM analysis)
 
 ```
 %% input raw material and show them
@@ -33,8 +33,8 @@ bwComp = bwconncomp(ccleftb1_5k.AllCircles);
 pixelSize = (0.023);
 for i = 1:length(bwComp.PixelIdxList)
     temp = bwComp.PixelIdxList(i);
-    Volume(i) = length(temp{1}).(pixelSize^2);
-    Dia(i) = 2sqrt(Volume(i)/pi);
+    Volume(i) = length(temp{1}).*(pixelSize^2);
+    Dia(i) = 2*sqrt(Volume(i)/pi);
 end
 figure(2);histogram(Dia)
 grid on
