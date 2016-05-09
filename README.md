@@ -6,7 +6,7 @@ This link is provided in accordance with the following articles:
 
 >**Parametric Probability Distribution Functions for Axon Diameters of Corpus Callosum**  
 >Farshid Sepehrband, Daniel C. Alexander, Kristi A. Clark, Nyoman D. Kurniawan, Zhengyi Yang and David C. Reutens
->**Frontiers in Neuroanatomy**, in press.
+>**Frontiers in Neuroanatomy, 10:59.** DOI: 10.3389/fnana.2016.00059 [link](http://journal.frontiersin.org/article/10.3389/fnana.2016.00059/full)
 
 ## Supplementary material
 
