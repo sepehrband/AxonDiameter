@@ -1,4 +1,4 @@
-##ActiveAx with ultra-high gradient strength (G<sub>max</sub> = 1.35 T/m)
+##Axon diameter mapping of mouse corpus callosum
 This link is provided in accordance with the following articles:
 >**Towards Higher Sensitivity And Stability Of Axon Diameter Estimation With Diffusion-Weighted Magnetic Resonance Imaging**  
 >Farshid Sepehrband, Daniel C. Alexander, Nyoman D. Kurniawan, David C. Reutens, and Zhengyi Yang  
@@ -10,7 +10,7 @@ This link is provided in accordance with the following articles:
 
 ## Supplementary material
 
-## Diffusion-weighted MRI data
+## Diffusion-weighted MRI data (ActiveAx with G<sub>max</sub> = 1.35 T/m)
 Two datasets were acquired in this study, which are made available here:
 - 3-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/3-shell.zip).
 - 5-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/5-shell.zip).
@@ -21,7 +21,7 @@ For information regarding the acquisition protocol please see the above article.
 - Raw electron microscopy images can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/Raw.zip).
 - Processed images (in MATLAB format) can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/MATfiles.zip).
 
-** Please note that some of the images were not processed for axon diameter analysis, because of their low quality. However the raw images are included here, as they may be useful for other purposes. 
+** Note that some of the images were excluded from axon diameter estimation, due to low image quality. However they are included in the link above (raw EM images), as they may be useful for other purposes. 
  
 ### MATLAB demo (EM analysis)
 
