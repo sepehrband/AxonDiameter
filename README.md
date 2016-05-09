@@ -17,7 +17,7 @@ Two datasets were acquired in this study, which are made available here:
 
 For information regarding the acquisition protocol please see the above article. 
 
-## Electron microscopy (EM) data
+## Electron Microscopy (EM) data
 - Raw electron microscopy images can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/Raw.zip).
 - Processed images (in MATLAB format) can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/MATfiles.zip).
 
