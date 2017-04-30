@@ -1,4 +1,4 @@
-##Axon diameter mapping of mouse corpus callosum
+# Axon diameter mapping of mouse corpus callosum
 This link is provided in accordance with the following articles:
 >**Towards Higher Sensitivity And Stability Of Axon Diameter Estimation With Diffusion-Weighted Magnetic Resonance Imaging**  
 >Farshid Sepehrband, Daniel C. Alexander, Nyoman D. Kurniawan, David C. Reutens, and Zhengyi Yang  
