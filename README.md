@@ -19,7 +19,7 @@ For information regarding the acquisition protocol please see the above article.
 
 ## Electron Microscopy (EM) data
 - Raw electron microscopy images can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/Raw.zip).
-- Processed images (in MATLAB format) can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/MATfiles.zip).
+- Analyzed images (in MATLAB format) can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/MATfiles.zip).
 
 ** Note that some of the images were excluded from axon diameter estimation, due to low image quality. However they are included in the link above (raw EM images), as they may be useful for other purposes. 
  
