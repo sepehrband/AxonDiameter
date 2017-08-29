@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/45438813.svg)](https://zenodo.org/badge/latestdoi/45438813)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://osf.io/yp4qg/)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 # Axon diameter mapping of mouse corpus callosum
 This link is provided in accordance with the following articles:
