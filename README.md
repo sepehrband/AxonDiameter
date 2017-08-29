@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/45438813.svg)](https://zenodo.org/badge/latestdoi/45438813)
-[![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)]
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # Axon diameter mapping of mouse corpus callosum
 This link is provided in accordance with the following articles:
