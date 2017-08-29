@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/45438813.svg)](https://zenodo.org/badge/latestdoi/45438813)
-[! [Dataset](https://osf.io/yp4qg/)]
+[![Dataset](https://osf.io/yp4qg/)](https://osf.io/yp4qg/)
 
 # Axon diameter mapping of mouse corpus callosum
 This link is provided in accordance with the following articles:
