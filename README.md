@@ -16,14 +16,15 @@ This link is provided in accordance with the following articles:
 
 ## Diffusion-weighted MRI data (ActiveAx with G<sub>max</sub> = 1.35 T/m)
 Two datasets were acquired in this study, which are made available here:
-- 3-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/3-shell.zip).
-- 5-shell data can be downloaded [here](https://dl.dropboxusercontent.com/u/17531966/ActiveAxD/5-shell.zip).
+- 3-shell data can be downloaded [here](https://www.dropbox.com/s/bqy7buyy0m6cv6s/3-shell.zip?dl=0).
+- 5-shell data can be downloaded [here](https://www.dropbox.com/s/wr667f86chisn4u/5-shell.zip?dl=0).
+- gradient encoding directions can be found [here](https://www.dropbox.com/s/me79dwdesa4sjeo/encDir.zip?dl=0).
 
 For information regarding the acquisition protocol please see the above article. 
 
 ## Electron Microscopy (EM) data
-- Raw electron microscopy images can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/Raw.zip).
-- Analyzed images (in MATLAB format) can be find [here](https://dl.dropboxusercontent.com/u/17531966/ADD/EM/MATfiles.zip).
+- Raw electron microscopy images can be found [here](https://www.dropbox.com/s/r8wi9ovwc8fq2zy/Raw.zip?dl=0).
+- Manually segmented axons (in MATLAB format) can be found [here](https://www.dropbox.com/s/8fh34qiwvow96yi/MATfiles.zip?dl=0).
 
 ** Note that some of the images were excluded from axon diameter estimation, due to low image quality. However they are included in the link above (raw EM images), as they may be useful for other purposes. 
  
