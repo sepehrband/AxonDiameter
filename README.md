@@ -12,7 +12,7 @@ This link is provided in accordance with the following articles:
 >Farshid Sepehrband, Daniel C. Alexander, Kristi A. Clark, Nyoman D. Kurniawan, Zhengyi Yang and David C. Reutens
 >**Frontiers in Neuroanatomy, 10:59.** DOI: 10.3389/fnana.2016.00059 [link](http://journal.frontiersin.org/article/10.3389/fnana.2016.00059/full)
 
-## Supplementary material :brain::mouse2::radio_button:
+## Supplementary material :microscope::mouse2:
 
 ## Diffusion-weighted MRI data (ActiveAx with G<sub>max</sub> = 1.35 T/m)
 Two datasets were acquired in this study, which are made available here:
