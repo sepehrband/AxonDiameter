@@ -25,7 +25,7 @@ For information regarding the acquisition protocol please see the above article.
 ## Electron Microscopy (EM) data
 - Raw electron microscopy images can be found [here](https://www.dropbox.com/s/r8wi9ovwc8fq2zy/Raw.zip?dl=0).
 - Manually segmented axons (in MATLAB format) can be found [here](https://www.dropbox.com/s/8fh34qiwvow96yi/MATfiles.zip?dl=0).
-- Axon diameter values in \[ \mu \] m (in CSV format) can be found [here](https://www.dropbox.com/s/kn8v16chuev7f1n/CC_axon_diameter.zip?dl=0).
+- Axon diameter values in \newcommand\Mu{\mathrm{M}} m (in CSV format) can be found [here](https://www.dropbox.com/s/kn8v16chuev7f1n/CC_axon_diameter.zip?dl=0).
 
 ** Note that some of the images were excluded from axon diameter estimation, due to low image quality. However they are included in the link above (raw EM images), as they may be useful for other purposes. 
  
